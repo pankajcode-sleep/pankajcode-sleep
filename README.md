@@ -35,15 +35,14 @@ A CRM application project focused on organizing business leads and follow-up wor
 
 - **Tech Stack:** Python, Flask, MySQL, SQL
 - **Focus:** Lead management, employee assignment, duplicate detection and reporting
-- **Repository:** [Add public repository or sanitized code sample link]
-- **Demo:** [Add live demo link if available]
+
 
 ### 3. Data Analysis Portfolio
 A collection of practical data analysis work.
 
 - **Tech Stack:** Excel, SQL, Python, pandas, Matplotlib
 - **Focus:** Data cleaning, SQL analysis, reporting and visualization
-- **Repository:** [Add repository or notebook link]
+
 
 ## 🎯 Currently Improving
 
