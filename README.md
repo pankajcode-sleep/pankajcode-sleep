@@ -27,8 +27,6 @@ A web application for managing volunteer information and donation records.
 
 - **Tech Stack:** Python, Flask, MySQL, Bootstrap 5
 - **Focus:** Database models, CRUD operations, authentication and data management
-- **Repository:** [Add public repository or sanitized code sample link]
-- **Demo:** [Add live demo link if available]
 
 ### 2. Lead Management CRM
 A CRM application project focused on organizing business leads and follow-up workflows.
